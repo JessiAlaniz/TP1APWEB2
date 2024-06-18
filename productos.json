@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop Gamer",
+    "desc": "Laptop de alta gama para juegos",
+    "precio": 1500,
+    "imagen": "laptop_gamer.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Inalambrico Recargable",
+    "desc": "Mouse inalambrico para mayor comodidad para el usuario",
+    "precio": 90,
+    "imagen": "mouse_inalambrico.jpg"
+  },
+  {},
+  {},
+  {
+    "id": 3,
+    "nombre": "Teclado",
+    "desc": "Teclado con retroiluminación",
+    "precio": 120,
+    "imagen": "teclado_iluminado.jpg"
+  }
+]
